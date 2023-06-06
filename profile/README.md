@@ -15,7 +15,5 @@
 
 | 허은<br> [Github](https://github.com/DAASHeo) | 한진경<br> [Github](https://github.com/jiinkyung) | 장소영<br> [Github](https://github.com/place0) | 노하림<br> [Github](https://github.com/harim061) |
 | :---: | :---: | :---: | :---: |
-|<img width="100" alt="eun" src="https://github.com/EUN-IVERSE/AboutUs/assets/64454313/c08cedee-ce45-4eef-9a22-d8a55f950f06"> | <img width="100" alt="jiinkong" src="https://github.com/EUN-IVERSE/AboutUs/assets/64454313/19966b52-e7ae-4fca-92fe-e7dd64d7ef35">| <img width="100" alt="soyeong" src="https://github.com/EUN-IVERSE/AboutUs/assets/64454313/b13e11a1-3646-484b-89e6-4796d3d0872e"> | <img width="100" alt="nogul" src="https://github.com/EUN-IVERSE/AboutUs/assets/64454313/2114a7d3-fe18-415d-ae7a-b5cb8d45fb58"> |
+|<img width="100" alt="eun" src="https://github.com/EUN-IVERSE/.github/assets/64454313/bd305dbb-1c58-4a9d-a662-74fcb359e3e7"> | <img width="100" alt="jiinkong" src="https://github.com/EUN-IVERSE/.github/assets/64454313/9dbadc83-8b19-4af7-8918-39cbb3f27cd0">| <img width="100" alt="soyeong" src="https://github.com/EUN-IVERSE/.github/assets/64454313/58c91a5e-d77f-4403-823c-ecbf692689f9"> | <img width="100" alt="nogul" src="https://github.com/EUN-IVERSE/.github/assets/64454313/7c9db58f-b914-4e07-9451-2ae3bb4a3a50"> |
 | 세계관 최강자<br>(a.k.a 주인장) | 은경이의 구성원<br>(a.k.a 은경이는 한 몸이에요.)  | 은영이의 구성원<br>(a.k.a 동네 주민 및 GPT 동지) | 은하의 구성원<br>(a.k.a 연구실 및 대학원 동지) |
-
-
